@@ -6,8 +6,8 @@
 
 ・抵抗器　5kΩ
 
-・ジョイスティック
+・ジョイスティック(KS0522 KEYESTUDIO 48 IN 1 SENSOR KIT)
 
-・LCDディスプレイモニタ
+・LCDディスプレイモニタ(KS0522 KEYESTUDIO 48 IN 1 SENSOR KIT)
 
-・8x8 ドットLED
+・8x8 ドットLED(KS0522 KEYESTUDIO 48 IN 1 SENSOR KIT)
