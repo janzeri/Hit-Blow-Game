@@ -1,6 +1,6 @@
 # Hit&Blow Game
 
-##必要な部品
+## 必要な部品
 
 ・Arduino UNO
 
