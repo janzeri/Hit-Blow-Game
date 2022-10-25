@@ -4,7 +4,7 @@
 
 ・Arduino UNO
 
-・抵抗器　5kΩ
+・抵抗器　750Ω
 
 ・ジョイスティック　　　　(KS0522 KEYESTUDIO 48 IN 1 SENSOR KIT)
 
